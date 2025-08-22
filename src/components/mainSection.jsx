@@ -17,7 +17,7 @@ export default function MainSection() {
 
                 <div className="mt-[50px] flex max-[480px]:flex-col max-[768px]:flex-col max-[1024px]:flex-col flex-row justify-center items-center gap-4">
 
-                    <Link to="https://drive.google.com/file/d/1ej4ocTzIh2WOg-Mzc6xbGBVtoQWlVWTP/view?usp=drive_link"><button className="hover:bg-blue-600 cursor-pointer bg-blue-500 border-1 border-black rounded-[30px] p-[10px] max-[480px]:w-[135px] max-[768px]:w-[140px] max-[1024px]:w-[150px] w-[140px] max-[1024px]:h-[62px] h-[60px] font-bold max-[480px]:text-[0.9rem] max-[768px]:text-[1rem] max-[1024px]:text-[1.1rem] text-[1rem] text-gray-100">CV/Resume</button></Link>
+                    <Link to="https://drive.google.com/file/d/1xCZp2kHAPxGyoP-F9H99qAa7boKgOR63/view?usp=sharing"><button className="hover:bg-blue-600 cursor-pointer bg-blue-500 border-1 border-black rounded-[30px] p-[10px] max-[480px]:w-[135px] max-[768px]:w-[140px] max-[1024px]:w-[150px] w-[140px] max-[1024px]:h-[62px] h-[60px] font-bold max-[480px]:text-[0.9rem] max-[768px]:text-[1rem] max-[1024px]:text-[1.1rem] text-[1rem] text-gray-100">CV/Resume</button></Link>
 
                     <Link to="https://github.com/Carl98K"><button className="hover:bg-orange-500 cursor-pointer bg-orange-400 border-1 border-black rounded-[30px] p-[10px] max-[480px]:w-[135px] max-[768px]:w-[140px] max-[1024px]:w-[150px] w-[140px] max-[1024px]:h-[62px] h-[60px] font-bold max-[480px]:text-[0.9rem] max-[768px]:text-[1rem] max-[1024px]:text-[1.1rem] text-[1rem] text-gray-100">GitHub</button></Link>
                 </div>
